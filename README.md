@@ -8,6 +8,6 @@ The styling is kept clean and minimalistic with a light background color, box sh
 appealing.
 
 
-#3.) Task 4(Intermediate) : 
+# 3.) Task 4(Intermediate) : 
 
 This modern calculator uses HTML, CSS, and JavaScript to create a simple calculator with basic arithmetic operations (+, -, *, /) and a clear button (C) for clearing the input field. It also has error handling to display "Error" on the result field in case of invalid expressions. 
