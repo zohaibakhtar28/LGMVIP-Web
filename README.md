@@ -18,7 +18,7 @@ This modern calculator uses HTML, CSS, and JavaScript to create a simple calcula
 Live : https://zohaibakhtar28.github.io/LGMVIP-Web-Calculator/
 
 
-#3.) Task 3(Intermediate) : Create a simple registration form whose data display on the same page using HTML,CSS and JavaScript :-
+# 3.) Task 3(Intermediate) : Create a simple registration form whose data display on the same page using HTML,CSS and JavaScript :-
 
 This is a simple registration form that allows users to input their name, email address, age and gender. The entered data is displayed on the same page once the user submits the form. Features Simple, clean design,Validates user inputs and displays entered data on the same page.
 
